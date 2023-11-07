@@ -1,0 +1,59 @@
+
+/* Style for the singer's image */
+.singer img {
+    max-width: 150px;
+    max-height: 150px; /* Added max-height to maintain aspect ratio */
+    border-radius: 50%;
+}
+
+
+
+/* Style for the singer's name */
+.singer h2 {
+    margin-top: 10px;
+    font-size: 1.5em;
+    color: #FF5722; /* Vibrant orange color */
+}
+
+/* Style for the list of songs */
+.singer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style for the song links */
+.singer li a {
+    text-decoration: none;
+    color: #00BCD4; /* Vibrant cyan color */
+    font-weight: bold;
+}
+
+/* Style for the song links on hover */
+.singer li a:hover {
+    color: #E91E63; /* Vibrant pink color */
+}
+
+/* Style for the container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #FFEB3B; /* Vibrant yellow background color */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Style for the heading */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Style for the container background */
+body {
+    background-color: #F9F9F9; /* Light gray background color */
+}
+
+
+
